@@ -1,4 +1,4 @@
-![Timemator Logo](https://github.com/akshatvg/Timemator/blob/master/Assets/app-icon-256%402x.png "Timemator Logo")
+![Timemator Logo](https://github.com/akshatvg/Timemator/blob/master/Assets/app-icon-64%402x.png "Timemator Logo")
 
 # Timemator
 
