@@ -2,7 +2,8 @@ body {
     margin: 0;
     padding: 0;
     font-size: 17px;
-    font-family: "Graphik", -apple-system, BlinkMacSystemFont, sans;}
+    font-family: "Graphik", -apple-system, BlinkMacSystemFont, sans;
+}
 
 /* Navigation Bar */
 
@@ -52,7 +53,7 @@ nav>ul>li>a {
     display: block;
     position: relative;
     line-height: 4em;
-    border-style: none;    
+    border-style: none;
     margin-right: 25px;
     text-align: center;
     vertical-align: middle;
@@ -95,10 +96,63 @@ nav>ul>li>a {
     border-color: rgba(198, 231, 255, 0.45);
 }
 
+.rightbutton {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0 24px;
+    line-height: 37px;
+    margin-right: 680px;
+    text-align: center;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align: middle;
+    border-radius: 4px;
+    font-family: "Graphik", -apple-system, BlinkMacSystemFont, sans;
+    color: white;
+    display: inline-block !important;
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    overflow: hidden;
+    float: right;
+    border-color: rgba(198, 231, 255, 0.45);
+    margin-top: 20px;
+}
+
+.leftbutton {
+    line-height: 37px;
+    margin-bottom: 20px;
+    margin-left: 550px;
+    margin-top: 20px;
+    border-radius: 4px;
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0 24px;
+    text-align: center;
+    float: left;
+    text-decoration: none;
+    white-space: nowrap;
+    vertical-align: middle;
+    font-family: "Graphik", -apple-system, BlinkMacSystemFont, sans;
+    color: white;
+    display: inline-block !important;
+    background-color: #F60053;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    overflow: hidden;
+    border-color: #F60053;
+}
+
+.twobuttons {
+    text-align: center;
+}
+
 .sec1 {
     background-image: url("Assets/hero-bg.jpg");
     background-color: #cccccc;
-    height: 900px;
+    height: 1065px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
