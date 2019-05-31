@@ -290,3 +290,53 @@ nav>ul>li>a {
     overflow: hidden;
     border-color: #F60053;
 }
+
+.sec5 {
+    background-color: #081217;
+    padding: 10px;
+    height: 1200px;
+}
+
+.line3 {
+    margin-left: 700px;
+    width: 120px;
+    height: 47px;
+    border-top: 5px solid rgb(149, 254, 1);
+    position: absolute;
+}
+
+.line4 {
+    margin-left: 850px;
+    border-bottom: 0px;
+    width: 120px;
+    height: 47px;
+    border-top: 5px solid rgb(149, 254, 1);
+    position: absolute;
+}
+
+.chart {
+    margin-left: 700px;
+    width: 120px;
+    height: 47px;
+    border-top: 5px solid rgb(149, 254, 1);
+    position: absolute;
+    color: white;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 1em;
+    text-align: center;
+}
+
+.list {
+    margin-left: 850px;
+    border-bottom: 0px;
+    width: 120px;
+    height: 47px;
+    border-top: 5px solid #1C2A2F;
+    position: absolute;
+    color: white;
+    font-size: 26px;
+    font-weight: 600;
+    line-height: 1em;
+    text-align: center;
+}
