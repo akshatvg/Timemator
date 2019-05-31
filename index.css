@@ -338,7 +338,7 @@ nav>ul>li>a {
     background-repeat: repeat;
     background-position: top;
     background-size: cover;
-    height: 1065px;
+    height: 755px;
 }
 
 .clock1 {
@@ -371,4 +371,12 @@ nav>ul>li>a {
     background-color: rgba(0, 0, 0, 0.5);
     font-size: 15px;
     transition: all 0.3s ease;
+}
+
+.sec7 {
+    background-image: url("Assets/highlighted-section-bg-bottom.png");
+    background-color: #0D1822;
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
