@@ -375,8 +375,15 @@ nav>ul>li>a {
 
 .sec7 {
     background-image: url("Assets/highlighted-section-bg-bottom.png");
-    background-color: #0D1822;
+    background-color: #0C1923;
+    padding: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sec8 {
     padding: 20px;
     background-size: cover;
     background-repeat: no-repeat;
+    background-color: #081217;
 }
