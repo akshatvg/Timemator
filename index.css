@@ -386,5 +386,13 @@ nav>ul>li>a {
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #081217;
+    height: 445px;
+}
+
+.sec9 {
+    padding: 20px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #081217;
     height: 450px;
 }
