@@ -4,6 +4,6 @@
 
 ### DSC: Frontend Development Task (Copying A Website).
 
-This repository is made by Akshat Gupta to try to replicate an already existing website to improve his web development skills.
+This repository is made by Akshat Gupta to try to replicate an already existing website to improve his frontend web development skills.
 
 The link to the actual website is: <https://timemator.com/>
