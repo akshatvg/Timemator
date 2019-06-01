@@ -553,3 +553,9 @@ nav>ul>li>a {
     cursor: pointer;
     overflow: hidden;
 }
+
+footer {
+    background-color: #081217;
+    height: 250px;
+    padding: 10px;
+}
