@@ -404,3 +404,12 @@ nav>ul>li>a {
     background-color: #081217;
     height: 650px;
 }
+
+.sec11 {
+    background-image: url("Assets/highlighted-section-bg-top.png");
+    background-color: black;
+    padding: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+}
