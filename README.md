@@ -1,6 +1,6 @@
 # Timemator
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/y/akshatvg/Timemator?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/Timemator?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/Timemator?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/Timemator?style=social)](https://github.com/akshatvg/Timemator/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/Timemator?style=social&logo=git)](https://github.com/akshatvg/Timemator/network)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/Timemator?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/Timemator?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/Timemator?style=social)](https://github.com/akshatvg/Timemator/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/Timemator?style=social&logo=git)](https://github.com/akshatvg/Timemator/network)
 
 This repository is made by Akshat Gupta to try to replicate an already existing website to improve his frontend web development skills.
 
