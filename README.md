@@ -21,13 +21,13 @@ This repository is made by Akshat Gupta to try to replicate an already existing 
 
 ## Requirements
 
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/Timemator?logo=php&style=social)](https://github.com/akshatvg/)
+[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/Timemator?logo=html&style=social)](https://github.com/akshatvg/)
 
 The source code of this project is written in **`HTML/CSS/JS`**. So, you do not require anything extra to run this project.
 
 ## Instructions
 
-[![chrome](https://img.shields.io/badge/Open-index.html-lightgrey.svg?logo=google-chrome&style=popout&logoColor=red)](https://www.linkedin.com/in/akshatvg/)
+[![chrome](https://img.shields.io/badge/Open-index.html-lightgrey.svg?logo=google-chrome&style=popout&logoColor=red)](https://timemator.akshatvg.com)
 
 Extract the folder and run `index.html`
 
@@ -86,7 +86,7 @@ ______      _               _   _               _
 
 ```javascript
 
-if (youLiked) {
+if (youEnjoyed) {
     starThisRepository();
 }
 
