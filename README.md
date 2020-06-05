@@ -6,7 +6,7 @@ This repository is made by Akshat Gupta to try to replicate an already existing 
 
 <p align="center">
 <a href="https://timemator.akshatvg.com">
-<img src="https://github.com/akshatvg/Timemator/blob/master/Assets/app-icon-64%402x.png" width=30% height=30% alt="Timemator Logo"/>
+<img src="https://github.com/akshatvg/Timemator/blob/master/Assets/app-icon-64%402x.png" width="120px" height="120px" alt="Timemator Logo"/>
 </a>
 </p>
 
