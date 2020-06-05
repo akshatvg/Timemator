@@ -17,7 +17,7 @@ This repository is made by Akshat Gupta to try to replicate an already existing 
 
 ## Useful Links
 
-- [Actual Website](https:/timemator.com)
+- [Actual Website](https://timemator.com)
 
 ## Requirements
 
